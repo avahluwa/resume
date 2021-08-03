@@ -1,3 +1,4 @@
+
 /*style.css >> resume.html*/
 
 body {
@@ -28,7 +29,7 @@ hr {
   text-decoration: underline;
 }
 
-.skills h2, .ms-work h2 {
+.skills h2, .ms-work h2, .education h2 {
   font-size: 150%;
   padding-top: 15px;
   text-decoration: underline;
@@ -37,7 +38,7 @@ hr {
   text-align: left;
   margin-left: 60px;
 }
-.ms-work, .atos-work {
+.ms-work, .atos-work, .auto-work, .education {
   text-align: left;
   margin-left: 60px;
   margin-right: 80px;
