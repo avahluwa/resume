@@ -9,7 +9,27 @@ body {
 .contact a {
     style=display:inline-block; 
     margin-right:50px;
-    font-size: 200%;
+    font-size: 150%;
     text-decoration: none;
     color: blue;
+}
+
+hr {
+  border: 2px solid black;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.summary h2 {
+  text-align: left;
+  margin-left: 60px;
+  font-size: 125%;
+}
+
+.skills h2 {
+  font-size: 125%;
+}
+.skills {
+  text-align: left;
+  margin-left: 60px;
 }
