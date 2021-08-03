@@ -1,0 +1,15 @@
+/*style.css >> resume.html*/
+
+body {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: Azure;  
+}
+
+.contact a {
+    style=display:inline-block; 
+    margin-right:50px;
+    font-size: 200%;
+    text-decoration: none;
+    color: blue;
+}
