@@ -3,7 +3,7 @@
 body {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: Azure;  
+    background-color: Azure;
 }
 
 .contact a {
@@ -12,6 +12,7 @@ body {
     font-size: 150%;
     text-decoration: none;
     color: blue;
+    padding: 150px;
 }
 
 hr {
@@ -24,10 +25,12 @@ hr {
   text-align: left;
   margin-left: 60px;
   font-size: 125%;
+  padding-top: 15px;
 }
 
 .skills h2 {
-  font-size: 125%;
+  font-size: 115%;
+  padding-top: 15px;
 }
 .skills {
   text-align: left;
