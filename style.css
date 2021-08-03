@@ -8,11 +8,10 @@ body {
 
 .contact a {
     style=display:inline-block; 
-    margin-right:50px;
     font-size: 150%;
     text-decoration: none;
     color: blue;
-    padding: 150px;
+    padding: 75px;
 }
 
 hr {
@@ -24,15 +23,22 @@ hr {
 .summary h2 {
   text-align: left;
   margin-left: 60px;
-  font-size: 125%;
+  font-size: 150%;
   padding-top: 15px;
+  text-decoration: underline;
 }
 
-.skills h2 {
-  font-size: 115%;
+.skills h2, .ms-work h2 {
+  font-size: 150%;
   padding-top: 15px;
+  text-decoration: underline;
 }
 .skills {
   text-align: left;
   margin-left: 60px;
+}
+.ms-work, .atos-work {
+  text-align: left;
+  margin-left: 60px;
+  margin-right: 80px;
 }
